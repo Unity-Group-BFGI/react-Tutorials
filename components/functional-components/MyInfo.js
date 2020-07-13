@@ -6,7 +6,7 @@ function MyInfo(){
             <h1>Arjun Singh</h1>
             <p>Student of cse</p>
               <ul>
-                <li>html</li>
+                <li>Html</li>
                 <li>css</li>
                 <li>js</li>
               </ul>
